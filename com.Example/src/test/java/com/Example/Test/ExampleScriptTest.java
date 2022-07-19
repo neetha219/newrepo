@@ -11,7 +11,11 @@ public class ExampleScriptTest {
 	@Test
 	public static void ExampleTest3()
 	{
-		System.out.println("Namaste");
+		System.out.println("new");
+		
 	}
-
+    public static void ExampleTest4()
+    {
+    	System.out.println("checked");
+    }
 }
