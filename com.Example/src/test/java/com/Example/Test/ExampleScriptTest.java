@@ -6,7 +6,7 @@ public class ExampleScriptTest {
 	@Test
      public static void ExampleTest()
 	{
-		System.out.println("Hello");
+		System.out.println("Goodbye");
 	}
 	@Test
 	public static void ExampleTest3()
